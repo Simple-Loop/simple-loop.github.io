@@ -1,0 +1,5 @@
+# All public pages and assets are open to search, AI retrieval and training crawlers.
+User-agent: *
+Allow: /
+
+Sitemap: https://simple-loop.github.io/sitemap.xml
